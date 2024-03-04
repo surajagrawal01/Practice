@@ -7,7 +7,6 @@ const unique = (str)=>{
     }
     
     return uniii
-    console.log(uniii)
 }
 
 console.log(unique('aaabbcc'))
